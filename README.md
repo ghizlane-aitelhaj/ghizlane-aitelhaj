@@ -19,5 +19,9 @@
 ## Find me here:
 - [LinkedIn](www.linkedin.com/in/ghizlane-ait-elhaj-458ab025b)
 - [GitHub](https://github.com/ghizlane-aitelhaj)
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)
+## Skills 💪
+- ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+- ![Python](https://img.shields.io/badge/Python-3.9-blue)
+- ![React](https://img.shields.io/badge/React-16.13-61DAFB)
+- ![NodeJS](https://img.shields.io/badge/Node.js-14.15-339933)
+
