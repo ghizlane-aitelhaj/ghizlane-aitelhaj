@@ -20,9 +20,8 @@
 - [LinkedIn](www.linkedin.com/in/ghizlane-ait-elhaj-458ab025b)
 - [GitHub](https://github.com/ghizlane-aitelhaj)
 ## Skills 💪
-- ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat-square&logo=python&logoColor=white)
-- ![React](https://img.shields.io/badge/React-16.13-61DAFB?style=flat-square&logo=react&logoColor=white)
+<img src="https://img.shields.io/badge/JavaScript-ES6-yellow" width="40" height="40"/>
+<img src="https://img.shields.io/badge/Python-3.9-blue" width="40" height="40"/>
 
 
 ## Socials 📱
