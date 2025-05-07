@@ -19,5 +19,5 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23333333.svg?style=for-the-badge&logo=git&logoColor=white)
-![Sql](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![SQL](https://img.shields.io/badge/SQL-%2307405F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
