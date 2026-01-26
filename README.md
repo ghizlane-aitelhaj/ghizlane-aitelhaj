@@ -2,11 +2,11 @@
 
 🎓 I’m a student at **ENSA Berrechid**, currently studying **Systems and Information Management** with a focus on **Big Data**.
 
-🔭 I’m currently working on **Big Data projects** using **Python**, **SQL**, and **Machine Learning**.
+ I’m currently working on **Big Data projects** using **Python**, **SQL**, and **Machine Learning**.
 
-🌱 I’m learning about **Data Engineering** and **Cloud Computing**.
+ I’m learning about **Data Engineering** and **Cloud Computing**.
 
-👯 I’m looking to collaborate on **Data Science**, **Big Data**, and **Machine Learning** projects.
+ I’m looking to collaborate on **Data Science**, **Big Data**, and **Machine Learning** projects.
 
 💬 Ask me about **Python**, **Data Science**, **Big Data**, and **Machine Learning**.
 
