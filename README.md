@@ -10,7 +10,7 @@
 
 💬 Ask me about **Python**, **Data Science**, **Big Data**, and **Machine Learning**.
 
-📫 How to reach me: [Email: atlethajghizlane18@gmail.com](mailto:atlethajghizlane18@gmail.com)
+📫 How to reach me: [Email: Aitlethaj.ghizlane18@gmail.com](mailto:atlethajghizlane18@gmail.com)
 # Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
