@@ -2,13 +2,13 @@
 
 **Ingénieure en Systèmes d'Information & Big Data** · ENSA Berrechid
 
-> À la recherche d'un stage PFA en **Data Engineering** — Juillet / Août 2025
+> À la recherche d'un stage PFA en **Data Engineering** — Juillet / Août 2026
 
 ---
 
 ## 🎓 About Me
 
-- 🏫 Étudiante en 2ème année cycle ingénieur à **ENSA Berrechid** — spécialité ISI & Big Data
+- 🏫 Étudiante en 2ème année cycle ingénieur à **ENSA Berrechid** — spécialité ingénierie des systèmes d'Information & Big Data
 - 🔭 Actuellement en train de développer un **système de prédiction de matchs de football** avec Python & AWS
 - 🌱 En apprentissage continu sur la **Data Engineering**, les **pipelines ETL/ELT** et le **Cloud Computing**
 - 🤝 Ouverte à collaborer sur des projets **Data Science**, **Big Data** et **Machine Learning**
@@ -60,15 +60,6 @@
 | 🚗 **Détection de plaques marocaines** | Détection automatique par Computer Vision | Python · YOLO |
 | 📚 **Gestion bibliothèque universitaire** | Application desktop avec architecture MVC | Java · JavaFX · Hibernate · MySQL |
 | 🤖 **Chatbot RAG** | Chatbot intelligent avec architecture Retrieval-Augmented Generation | LangChain · FAISS · OpenAI · Streamlit |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghizlane-aitelhaj&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghizlane-aitelhaj&layout=compact&theme=default&hide_border=true" height="150" alt="Top Languages"/>
-</p>
 
 ---
 
