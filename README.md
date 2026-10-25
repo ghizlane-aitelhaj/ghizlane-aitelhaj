@@ -2,7 +2,7 @@
 
 **Ingénieure en Systèmes d'Information & Big Data** · ENSA Berrechid
 
-> À la recherche d'un stage PFA en **Data Engineering** — Juillet / Août 2026
+> À la recherche d'un stage PFE en **Data Engineering** — à partir de Février 2027
 
 ---
 
